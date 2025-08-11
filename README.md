@@ -7,7 +7,7 @@
 - `app/` : inference CLI and Flask API
 - `notebooks/` : analysis & experiments
 
-## 🚀 **Quickstart**
+##  **Quickstart**
 
 ### **1. Setup Environment**
 ```bash
@@ -95,7 +95,7 @@ The batch CLI will:
   - Analyze mode: `image`, `behavior`, `predicted_return`, `future_price`, `method`
 - Display sample results and summary statistics
 
-## Stock-Specific Analysis 🆕
+## Stock-Specific Analysis 
 Analyze candlestick chart images with stock context and recommendations:
 
 ### Single Stock Analysis
@@ -108,11 +108,11 @@ Analyze candlestick chart images with stock context and recommendations:
 ```
 
 **Output includes:**
-- 📊 Stock symbol, sector, market cap, volatility
-- 🔍 Chart pattern behavior (bullish/bearish)
-- 💡 Trading recommendations (Buy/Sell/Strong Buy/Strong Sell)
-- ⚠️ Confidence level and risk assessment
-- 📈 Predicted return and future price (if last_price provided)
+-  Stock symbol, sector, market cap, volatility
+-  Chart pattern behavior (bullish/bearish)
+-  Trading recommendations (Buy/Sell/Strong Buy/Strong Sell)
+-  Confidence level and risk assessment
+-  Predicted return and future price (if last_price provided)
 
 ### Batch Stock Analysis
 Process multiple stock charts with their symbols:
