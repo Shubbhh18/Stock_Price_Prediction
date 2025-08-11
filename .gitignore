@@ -1,0 +1,12 @@
+NAME_OF_FILE_OR_FOLDER_TO_IGNORE
+.venv/
+__pycache__/
+archive/
+data/
+*.pth
+uploads/
+*.csv
+!requirements.txt
+archive/
+data/
+data/
